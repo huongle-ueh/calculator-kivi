@@ -1,4 +1,4 @@
-# Pocket Calculator App
+# Kivy Calculator App
 
 This is a pocket calculator app built using the Kivy framework for Python. The app provides basic arithmetic calculations such as addition, subtraction, multiplication, and division.
 
